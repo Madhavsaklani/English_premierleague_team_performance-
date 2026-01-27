@@ -22,6 +22,8 @@ The project uses two processed datasets derived from raw match data:
 ---
 
 ## 📂 Project Structure
+
+```
 * EPL-2023-24-Team-Performance/
   │
   ├── data/
@@ -42,6 +44,8 @@ The project uses two processed datasets derived from raw match data:
   │   └── EPL_2023_24_Dashboard.pbix
   │
   |__ README.md
+
+```
 
 ---
 
