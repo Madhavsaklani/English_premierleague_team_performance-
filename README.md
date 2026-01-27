@@ -22,26 +22,26 @@ The project uses two processed datasets derived from raw match data:
 ---
 
 ## 📂 Project Structure
-EPL-2023-24-Team-Performance/
-│
-├── data/
-│   ├── raw/
-│   │   └── E0.csv
-│   │
-│   └── processed/
-│       ├── team_match_level.csv
-│       └── team_summary.csv
-│
-├── notebook/
-│   └── analysis.ipynb
-│
-├── visuals/
-│   ├──League dashboard.png
-│
-├── dashboard/
-│   └── EPL_2023_24_Dashboard.pbix
-│
-|__ README.md
+* EPL-2023-24-Team-Performance/
+  │
+  ├── data/
+  │   ├── raw/
+  │   │   └── E0.csv
+  │   │
+  │   └── processed/
+  │       ├── team_match_level.csv
+  │       └── team_summary.csv
+  │
+  ├── notebook/
+  │   └── analysis.ipynb
+  │
+  ├── visuals/
+  │   ├──League dashboard.png
+  │
+  ├── dashboard/
+  │   └── EPL_2023_24_Dashboard.pbix
+  │
+  |__ README.md
 
 ---
 
