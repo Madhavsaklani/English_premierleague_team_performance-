@@ -62,11 +62,10 @@ The project uses two processed datasets derived from raw match data:
 
 ## 📈 Key Insights
 
-* Teams differ significantly in efficiency despite similar goal totals
-* Defensive strength has a strong correlation with points accumulation
-* Overperforming teams maximise points through balanced attack and   defence
-* Raw goal counts alone do not fully explain league performance
-
+* Manchester City shows highest goal efficiency (goals per shot)
+* some mid table teams outpeform xg but underperform in points 
+* Defensively solidity correlates more with points thanattacking       volume 
+* Home advantages still impacts goal difference significantly 
 ---
 
 ## 🛠 Tools & Technologies
